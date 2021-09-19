@@ -1,0 +1,75 @@
+[submodule "resources/[local]/ColouredPoodles"]
+	path = resources/[local]/ColouredPoodles
+	url = https://github.com/TayMcKenzieNZ/Coloured-Poodles
+[submodule "resources/[local]/pmms"]
+	path = resources/[local]/pmms
+	url = https://github.com/kibook/pmms
+[submodule "resources/[local]/httpmanager"]
+	path = resources/[local]/httpmanager
+	url = https://github.com/kibook/httpmanager
+[submodule "resources/[local]/callbacks"]
+	path = resources/[local]/callbacks
+	url = https://github.com/kibook/callbacks
+[submodule "resources/[local]/credits"]
+	path = resources/[local]/credits
+	url = https://github.com/kibook/credits
+[submodule "resources/[local]/custom_blips"]
+	path = resources/[local]/custom_blips
+	url = https://github.com/kibook/fivem-custom-blips
+[submodule "resources/[local]/discord_rest"]
+	path = resources/[local]/discord_rest
+	url = https://github.com/kibook/discord_rest
+[submodule "resources/[local]/discord_rich"]
+	path = resources/[local]/discord_rich
+	url = https://github.com/kibook/discord_rich
+[submodule "resources/[local]/discord_roles"]
+	path = resources/[local]/discord_roles
+	url = https://github.com/kibook/discord_roles
+[submodule "resources/[local]/logmanager"]
+	path = resources/[local]/logmanager
+	url = https://github.com/kibook/logmanager
+[submodule "resources/[local]/bob74_ipl"]
+	path = resources/[local]/bob74_ipl
+	url = https://github.com/Bob74/bob74_ipl
+[submodule "resources/[local]/warmenu"]
+	path = resources/[local]/warmenu
+	url = https://github.com/warxander/warmenu
+[submodule "resources/[local]/dpemotes"]
+	path = resources/[local]/dpemotes
+	url = https://github.com/kibook/dpemotes
+[submodule "resources/[local]/salty_doggomenu"]
+	path = resources/[local]/doggomenu
+	url = https://github.com/kibook/salty_doggomenu.git
+[submodule "resources/[local]/online-interiors"]
+	path = resources/[local]/online-interiors
+	url = https://github.com/kibook/online-interiors
+[submodule "resources/[local]/playermanager"]
+	path = resources/[local]/playermanager
+	url = https://github.com/kibook/playermanager
+[submodule "resources/[local]/poodlechat"]
+	path = resources/[local]/poodlechat
+	url = https://github.com/kibook/poodlechat
+[submodule "resources/[local]/resourcemanager"]
+	path = resources/[local]/resourcemanager
+	url = https://github.com/kibook/resourcemanager
+[submodule "resources/[local]/popdensity"]
+	path = resources/[local]/popdensity
+	url = https://github.com/kibook/popdensity
+[submodule "resources/[local]/scenarios"]
+	path = resources/[local]/scenarios
+	url = https://github.com/kibook/fivem-scenarios
+[submodule "resources/[local]/spooner"]
+	path = resources/[local]/spooner
+	url = https://github.com/kibook/spooner
+[submodule "resources/[local]/webmap"]
+	path = resources/[local]/webmap
+	url = https://github.com/kibook/webmap
+[submodule "resources/[local]/ranchdecaniche"]
+	path = resources/[local]/ranchdecaniche
+	url = https://github.com/TayMcKenzieNZ/Ranch-De-Caniche
+[submodule "resources/[local]/Titch2000_Arena"]
+	path = resources/[local]/Titch2000_Arena
+	url = https://github.com/Starystars67/Titch2000_Arena
+[submodule "resources/[local]/cinematiccam"]
+	path = resources/[local]/cinematiccam
+	url = https://github.com/Kiminaze/cinematiccam
