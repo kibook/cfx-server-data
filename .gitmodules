@@ -129,7 +129,7 @@
 [submodule "resources/[local]/poodlechat"]
 	path = resources/[local]/poodlechat
 	url = https://github.com/kibook/poodlechat
-	branch = master
+	branch = logmanager
 [submodule "resources/[local]/pvp"]
 	path = resources/[local]/pvp
 	url = https://github.com/kibook/redm-pvp
