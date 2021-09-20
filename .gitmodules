@@ -1,0 +1,150 @@
+[submodule "resources/[local]/ball"]
+	path = resources/[local]/ball
+	url = https://github.com/kibook/redm-ball
+[submodule "resources/[local]/ballooncontrols"]
+	path = resources/[local]/ballooncontrols
+	url = https://github.com/kibook/redm-ballooncontrols
+[submodule "resources/[local]/callbacks"]
+	path = resources/[local]/callbacks
+	url = https://github.com/kibook/callbacks
+[submodule "resources/[local]/blips"]
+	path = resources/[local]/blips
+	url = https://github.com/kibook/redm-blips
+[submodule "resources/[local]/carry"]
+	path = resources/[local]/carry
+	url = https://github.com/kibook/redm-carry
+[submodule "resources/[local]/credits"]
+	path = resources/[local]/credits
+	url = https://github.com/kibook/credits
+[submodule "resources/[local]/coreupgrades"]
+	path = resources/[local]/coreupgrades
+	url = https://github.com/kibook/redm-coreupgrades
+[submodule "resources/[local]/discord_rest"]
+	path = resources/[local]/discord_rest
+	url = https://github.com/kibook/discord_rest
+[submodule "resources/[local]/discord_rich"]
+	path = resources/[local]/discord_rich
+	url = https://github.com/kibook/discord_rich
+[submodule "resources/[local]/doors"]
+	path = resources/[local]/doors
+	url = https://github.com/kibook/redm-doors
+[submodule "resources/[local]/doorsearch"]
+	path = resources/[local]/doorsearch
+	url = https://github.com/kibook/redm-doorsearch
+[submodule "resources/[local]/emotes"]
+	path = resources/[local]/emotes
+	url = https://github.com/kibook/redm-emotes
+[submodule "resources/[local]/events"]
+	path = resources/[local]/events
+	url = https://github.com/kibook/redm-events
+[submodule "resources/[local]/fixanimals"]
+	path = resources/[local]/fixanimals
+	url = https://github.com/kibook/redm-fixanimals
+[submodule "resources/[local]/flintlock"]
+	path = resources/[local]/flintlock
+	url = https://github.com/kibook/redm-flintlock
+[submodule "resources/[local]/freecam"]
+	path = resources/[local]/freecam
+	url = https://github.com/kibook/redm-freecam
+[submodule "resources/[local]/guarma"]
+	path = resources/[local]/guarma
+	url = https://github.com/kibook/redm-guarma
+[submodule "resources/[local]/handsup"]
+	path = resources/[local]/handsup
+	url = https://github.com/kibook/redm-handsup
+[submodule "resources/[local]/httpmanager"]
+	path = resources/[local]/httpmanager
+	url = https://github.com/kibook/httpmanager
+[submodule "resources/[local]/imaps"]
+	path = resources/[local]/imaps
+	url = https://github.com/kibook/redm-imaps
+[submodule "resources/[local]/imapsearch"]
+	path = resources/[local]/imapsearch
+	url = https://github.com/kibook/redm-imapsearch
+[submodule "resources/[local]/instruments"]
+	path = resources/[local]/instruments
+	url = https://github.com/kibook/redm-instruments
+[submodule "resources/[local]/interactions"]
+	path = resources/[local]/interactions
+	url = https://github.com/kibook/redm-interactions
+[submodule "resources/[local]/eagleeye"]
+	path = resources/[local]/eagleeye
+	url = https://github.com/kibook/redm-eagleeye
+[submodule "resources/[local]/lightning-attacks"]
+	path = resources/[local]/lightning-attacks
+	url = https://github.com/kibook/redm-lightning-attacks
+[submodule "resources/[local]/logmanager"]
+	path = resources/[local]/logmanager
+	url = https://github.com/kibook/logmanager
+[submodule "resources/[local]/moonshineshacks"]
+	path = resources/[local]/moonshineshacks
+	url = https://github.com/kibook/redm-moonshineshacks
+[submodule "resources/[local]/mount"]
+	path = resources/[local]/mount
+	url = https://github.com/kibook/redm-mount
+[submodule "resources/[local]/noclip"]
+	path = resources/[local]/noclip
+	url = https://github.com/kibook/redm-noclip
+[submodule "resources/[local]/notifications"]
+	path = resources/[local]/notifications
+	url = https://github.com/kibook/redm-notifications
+[submodule "resources/[local]/playermanager"]
+	path = resources/[local]/playermanager
+	url = https://github.com/kibook/playermanager
+[submodule "resources/[local]/pmms"]
+	path = resources/[local]/pmms
+	url = https://github.com/kibook/pmms
+[submodule "resources/[local]/poodlechat"]
+	path = resources/[local]/poodlechat
+	url = https://github.com/kibook/poodlechat
+[submodule "resources/[local]/pvp"]
+	path = resources/[local]/pvp
+	url = https://github.com/kibook/redm-pvp
+[submodule "resources/[local]/ragdoll"]
+	path = resources/[local]/ragdoll
+	url = https://github.com/kibook/redm-ragdoll
+[submodule "resources/[local]/rcboat"]
+	path = resources/[local]/rcboat
+	url = https://github.com/kibook/redm-rcboat
+[submodule "resources/[local]/resourcemanager"]
+	path = resources/[local]/resourcemanager
+	url = https://github.com/kibook/resourcemanager
+[submodule "resources/[local]/respawn"]
+	path = resources/[local]/respawn
+	url = https://github.com/kibook/redm-respawn
+[submodule "resources/[local]/scalesync"]
+	path = resources/[local]/scalesync
+	url = https://github.com/kibook/redm-scalesync
+[submodule "resources/[local]/server-restart"]
+	path = resources/[local]/server-restart
+	url = https://github.com/kibook/redm-server-restart
+[submodule "resources/[local]/sidesaddle"]
+	path = resources/[local]/sidesaddle
+	url = https://github.com/kibook/redm-sidesaddle
+[submodule "resources/[local]/spooner"]
+	path = resources/[local]/spooner
+	url = https://github.com/kibook/spooner
+[submodule "resources/[local]/tags"]
+	path = resources/[local]/tags
+	url = https://github.com/kibook/redm-tags
+[submodule "resources/[local]/uifeed"]
+	path = resources/[local]/uifeed
+	url = https://github.com/kibook/redm-uifeed
+[submodule "resources/[local]/uiprompt"]
+	path = resources/[local]/uiprompt
+	url = https://github.com/kibook/redm-uiprompt
+[submodule "resources/[local]/undead"]
+	path = resources/[local]/undead
+	url = https://github.com/kibook/redm-undead
+[submodule "resources/[local]/weathersync"]
+	path = resources/[local]/weathersync
+	url = https://github.com/kibook/redm-weathersync
+[submodule "resources/[local]/webmap"]
+	path = resources/[local]/webmap
+	url = https://github.com/kibook/webmap
+[submodule "resources/[local]/[objectloader]"]
+	path = resources/[local]/[objectloader]
+	url = https://github.com/kibook/redm-objectloader
+[submodule "resources/[local]/popdensity"]
+	path = resources/[local]/popdensity
+	url = https://github.com/kibook/popdensity
