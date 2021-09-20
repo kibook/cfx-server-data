@@ -1,75 +1,100 @@
 [submodule "resources/[local]/ColouredPoodles"]
 	path = resources/[local]/ColouredPoodles
 	url = https://github.com/TayMcKenzieNZ/Coloured-Poodles
+	branch = main
 [submodule "resources/[local]/pmms"]
 	path = resources/[local]/pmms
 	url = https://github.com/kibook/pmms
+	branch = master
 [submodule "resources/[local]/httpmanager"]
 	path = resources/[local]/httpmanager
 	url = https://github.com/kibook/httpmanager
+	branch = master
 [submodule "resources/[local]/callbacks"]
 	path = resources/[local]/callbacks
 	url = https://github.com/kibook/callbacks
+	branch = master
 [submodule "resources/[local]/credits"]
 	path = resources/[local]/credits
 	url = https://github.com/kibook/credits
+	branch = master
 [submodule "resources/[local]/custom_blips"]
 	path = resources/[local]/custom_blips
 	url = https://github.com/kibook/fivem-custom-blips
+	branch = master
 [submodule "resources/[local]/discord_rest"]
 	path = resources/[local]/discord_rest
 	url = https://github.com/kibook/discord_rest
+	branch = master
 [submodule "resources/[local]/discord_rich"]
 	path = resources/[local]/discord_rich
 	url = https://github.com/kibook/discord_rich
+	branch = master
 [submodule "resources/[local]/discord_roles"]
 	path = resources/[local]/discord_roles
 	url = https://github.com/kibook/discord_roles
+	branch = master
 [submodule "resources/[local]/logmanager"]
 	path = resources/[local]/logmanager
 	url = https://github.com/kibook/logmanager
+	branch = master
 [submodule "resources/[local]/bob74_ipl"]
 	path = resources/[local]/bob74_ipl
 	url = https://github.com/Bob74/bob74_ipl
+	branch = master
 [submodule "resources/[local]/warmenu"]
 	path = resources/[local]/warmenu
 	url = https://github.com/warxander/warmenu
+	branch = master
 [submodule "resources/[local]/dpemotes"]
 	path = resources/[local]/dpemotes
 	url = https://github.com/kibook/dpemotes
+	branch = master
 [submodule "resources/[local]/salty_doggomenu"]
 	path = resources/[local]/doggomenu
 	url = https://github.com/kibook/salty_doggomenu.git
+	branch = master
 [submodule "resources/[local]/online-interiors"]
 	path = resources/[local]/online-interiors
 	url = https://github.com/kibook/online-interiors
+	branch = master
 [submodule "resources/[local]/playermanager"]
 	path = resources/[local]/playermanager
 	url = https://github.com/kibook/playermanager
+	branch = master
 [submodule "resources/[local]/poodlechat"]
 	path = resources/[local]/poodlechat
 	url = https://github.com/kibook/poodlechat
+	branch = master
 [submodule "resources/[local]/resourcemanager"]
 	path = resources/[local]/resourcemanager
 	url = https://github.com/kibook/resourcemanager
+	branch = master
 [submodule "resources/[local]/popdensity"]
 	path = resources/[local]/popdensity
 	url = https://github.com/kibook/popdensity
+	branch = master
 [submodule "resources/[local]/scenarios"]
 	path = resources/[local]/scenarios
 	url = https://github.com/kibook/fivem-scenarios
+	branch = master
 [submodule "resources/[local]/spooner"]
 	path = resources/[local]/spooner
 	url = https://github.com/kibook/spooner
+	branch = master
 [submodule "resources/[local]/webmap"]
 	path = resources/[local]/webmap
 	url = https://github.com/kibook/webmap
+	branch = master
 [submodule "resources/[local]/ranchdecaniche"]
 	path = resources/[local]/ranchdecaniche
 	url = https://github.com/TayMcKenzieNZ/Ranch-De-Caniche
+	branch = main
 [submodule "resources/[local]/Titch2000_Arena"]
 	path = resources/[local]/Titch2000_Arena
 	url = https://github.com/Starystars67/Titch2000_Arena
+	branch = master
 [submodule "resources/[local]/cinematiccam"]
 	path = resources/[local]/cinematiccam
 	url = https://github.com/Kiminaze/cinematiccam
+	branch = master
