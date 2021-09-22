@@ -74,13 +74,13 @@
 	path = resources/[local]/httpmanager
 	url = https://github.com/kibook/httpmanager
 	branch = master
-[submodule "resources/[local]/imaps"]
+[submodule "resources/[local]/ipls"]
 	path = resources/[local]/ipls
-	url = https://github.com/kibook/redm-imaps
+	url = https://github.com/kibook/redm-ipls
 	branch = master
-[submodule "resources/[local]/imapsearch"]
+[submodule "resources/[local]/iplsearch"]
 	path = resources/[local]/iplsearch
-	url = https://github.com/kibook/redm-imapsearch
+	url = https://github.com/kibook/redm-iplsearch
 	branch = master
 [submodule "resources/[local]/instruments"]
 	path = resources/[local]/instruments
