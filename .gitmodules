@@ -101,3 +101,4 @@
 [submodule "resources/[local]/NoIdleCam"]
 	path = resources/[local]/NoIdleCam
 	url = https://github.com/TayMcKenzieNZ/NoIdleCam
+	branch = main
