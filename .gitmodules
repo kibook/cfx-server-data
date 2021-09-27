@@ -154,10 +154,6 @@
 	path = resources/[local]/scalesync
 	url = https://github.com/kibook/redm-scalesync
 	branch = master
-[submodule "resources/[local]/server-restart"]
-	path = resources/[local]/server-restart
-	url = https://github.com/kibook/redm-server-restart
-	branch = master
 [submodule "resources/[local]/sidesaddle"]
 	path = resources/[local]/sidesaddle
 	url = https://github.com/kibook/redm-sidesaddle
@@ -198,3 +194,7 @@
 	path = resources/[local]/popdensity
 	url = https://github.com/kibook/popdensity
 	branch = master
+[submodule "resources/[local]/server_restart"]
+	path = resources/[local]/server_restart
+	url = https://github.com/kibook/server_restart
+	branch = poodles-palace-redm
