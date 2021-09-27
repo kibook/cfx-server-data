@@ -102,3 +102,7 @@
 	path = resources/[local]/NoIdleCam
 	url = https://github.com/TayMcKenzieNZ/NoIdleCam
 	branch = main
+[submodule "resources/[local]/server_restart"]
+	path = resources/[local]/server_restart
+	url = https://github.com/kibook/server_restart
+	branch = master
