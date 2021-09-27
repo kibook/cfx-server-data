@@ -98,3 +98,6 @@
 	path = resources/[local]/cinematiccam
 	url = https://github.com/Kiminaze/cinematiccam
 	branch = master
+[submodule "resources/[local]/NoIdleCam"]
+	path = resources/[local]/NoIdleCam
+	url = https://github.com/TayMcKenzieNZ/NoIdleCam
