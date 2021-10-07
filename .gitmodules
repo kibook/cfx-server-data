@@ -106,3 +106,7 @@
 	path = resources/[local]/server_restart
 	url = https://github.com/kibook/server_restart
 	branch = master
+[submodule "resources/[local]/weathersync"]
+	path = resources/[local]/weathersync
+	url = https://github.com/kibook/weathersync
+	branch = master
