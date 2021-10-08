@@ -113,4 +113,4 @@
 [submodule "resources/[local]/snowballs"]
 	path = resources/[local]/snowballs
 	url = https://github.com/kibook/Snowballs
-	branch = master
+	branch = weathersync
