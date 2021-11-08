@@ -114,3 +114,6 @@
 	path = resources/[local]/snowballs
 	url = https://github.com/kibook/Snowballs
 	branch = weathersync
+[submodule "resources/[local]/Ranch-Scenario"]
+	path = resources/[local]/Ranch-Scenario
+	url = https://github.com/TayMcKenzieNZ/Ranch-Scenario
