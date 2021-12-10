@@ -69,7 +69,7 @@
 [submodule "resources/[local]/resourcemanager"]
 	path = resources/[local]/resourcemanager
 	url = https://github.com/kibook/resourcemanager
-	branch = master
+	branch = poodles-palace
 [submodule "resources/[local]/popdensity"]
 	path = resources/[local]/popdensity
 	url = https://github.com/kibook/popdensity
