@@ -88,7 +88,7 @@
 	branch = master
 [submodule "resources/[local]/ranchdecaniche"]
 	path = resources/[local]/ranchdecaniche
-	url = https://github.com/TayMcKenzieNZ/Ranch-De-Caniche
+	url = https://github.com/kibook/Ranch-De-Caniche
 	branch = main
 [submodule "resources/[local]/Titch2000_Arena"]
 	path = resources/[local]/Titch2000_Arena
@@ -117,3 +117,7 @@
 [submodule "resources/[local]/xmas"]
 	path = resources/[local]/xmas
 	url = https://github.com/kibook/fivem-xmas
+[submodule "resources/[local]/ranchdecaniche-xmas"]
+	path = resources/[local]/ranchdecaniche-xmas
+	url = https://github.com/kibook/Ranch-De-Caniche
+	branch = xmas
