@@ -114,3 +114,6 @@
 	path = resources/[local]/snowballs
 	url = https://github.com/kibook/Snowballs
 	branch = weathersync
+[submodule "resources/[local]/xmas"]
+	path = resources/[local]/xmas
+	url = https://github.com/kibook/fivem-xmas
