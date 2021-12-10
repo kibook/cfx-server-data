@@ -145,7 +145,7 @@
 [submodule "resources/[local]/resourcemanager"]
 	path = resources/[local]/resourcemanager
 	url = https://github.com/kibook/resourcemanager
-	branch = master
+	branch = poodles-palace
 [submodule "resources/[local]/respawn"]
 	path = resources/[local]/respawn
 	url = https://github.com/kibook/redm-respawn
@@ -198,3 +198,6 @@
 	path = resources/[local]/server_restart
 	url = https://github.com/kibook/server_restart
 	branch = poodles-palace-redm
+[submodule "resources/[local]/xmas"]
+	path = resources/[local]/xmas
+	url = https://github.com/kibook/redm-xmas
