@@ -121,3 +121,7 @@
 	path = resources/[local]/ranchdecaniche-xmas
 	url = https://github.com/kibook/Ranch-De-Caniche
 	branch = xmas
+[submodule "resources/[local]/server_scenarios"]
+	path = resources/[local]/server_scenarios
+	url = https://github.com/TayMcKenzieNZ/server_scenarios
+	branch = main
