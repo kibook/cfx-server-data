@@ -56,7 +56,7 @@
 	branch = master
 [submodule "resources/[local]/online-interiors"]
 	path = resources/[local]/online-interiors
-	url = https://github.com/kibook/online-interiors
+	url = https://github.com/TayMcKenzieNZ/online-interiors
 	branch = master
 [submodule "resources/[local]/playermanager"]
 	path = resources/[local]/playermanager
