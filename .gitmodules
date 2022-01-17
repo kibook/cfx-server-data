@@ -125,3 +125,13 @@
 	path = resources/[local]/server_scenarios
 	url = https://github.com/TayMcKenzieNZ/server_scenarios
 	branch = main
+[submodule "resources/[local]/[radio]"]
+	path = resources/[local]/[radio]
+	url = https://github.com/kibook/fivem-radio
+	branch = poodles-palace
+[submodule "resources/[local]/custom_hud"]
+	path = resources/[local]/custom_hud
+	url = https://github.com/kibook/custom_hud
+[submodule "resources/[local]/[xnRadio]"]
+	path = resources/[local]/[xnRadio]
+	url = https://github.com/smallo92/xnRadio
